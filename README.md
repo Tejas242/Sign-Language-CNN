@@ -1,6 +1,6 @@
 # Sign Language Detection Model 🤖✋
 
-Welcome to the Sign Language Detection Model repository! This project leverages Keras to recognize sign language from static images.
+This project uses CNN model to recognize sign language from static images.
 
 ## 🌟 Features
 - **Image Classification**: Detects hand gestures into sign language letters.
